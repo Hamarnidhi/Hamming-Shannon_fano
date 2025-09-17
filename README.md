@@ -45,9 +45,5 @@ Variance is : 0.484
 ``` 
 # Results:
 ```
-Average Codeword Length is : 2.625
-Entropy is : 2.625
-Efficiency is : 100.0%
-Redundancy is : 0.0
-Variance is : 0.484
+The Parameters are Calculated
 ```
